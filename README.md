@@ -64,7 +64,8 @@ This project is a **Brick Breaker Game** implemented in Java, showcasing object-
 ## Showcase
 
 ### Screenshots
-Include screenshots or GIFs of the game in action (e.g., during gameplay, showing score updates).
+![image](https://github.com/user-attachments/assets/c5f7ad83-a893-4f76-9e3e-1ff40f134300)
+
 
 ---
 
