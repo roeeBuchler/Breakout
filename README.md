@@ -60,8 +60,8 @@ This project is a **Brick Breaker Game** implemented in Java, showcasing object-
    ```
 4. Run the game:
    ```bash
-   java -cp .:biuoop.jar General.Ass5Game
-   ```
+java -cp .;biuoop-1.4.jar Ass5Game
+```
 
 ---
 
