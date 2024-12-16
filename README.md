@@ -52,7 +52,7 @@ This project is a **Brick Breaker Game** implemented in Java, showcasing object-
    ```
 2. Compile the project:
    ```bash
-   javac -cp biuoop.jar *.java
+    javac -d . -cp biuoop-1.4.jar General/*.java Geometry/*.java Hit/*.java Ass5Game.java
    ```
 3. Run the game:
    ```bash
