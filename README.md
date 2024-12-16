@@ -50,11 +50,15 @@ This project is a **Brick Breaker Game** implemented in Java, showcasing object-
    ```bash
    git clone https://github.com/roeeBuchler/Breakout
    ```
-2. Compile the project:
+2. get into the Breakout folder:
    ```bash
-    javac -d . -cp biuoop-1.4.jar General/*.java Geometry/*.java Hit/*.java Ass5Game.java
+   cd Breakout
+   
+3. Compile the project:
+   ```bash
+   javac -d . -cp biuoop-1.4.jar General/*.java Geometry/*.java Hit/*.java Ass5Game.java
    ```
-3. Run the game:
+4. Run the game:
    ```bash
    java -cp .:biuoop.jar General.Ass5Game
    ```
