@@ -48,7 +48,7 @@ This project is a **Brick Breaker Game** implemented in Java, showcasing object-
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/roeeBuchler/BrickBreakerGame.git
+   git clone https://github.com/roeeBuchler/Breakout
    ```
 2. Compile the project:
    ```bash
